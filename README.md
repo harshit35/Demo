@@ -1,10 +1,7 @@
-
-
-
 # Requirements 
 ## Introduction 
 * This project is a tic tac toe game whic is created in C language.
- * One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.
+* One of the player chooses ‘O’ and the other ‘X’ to mark their respective cells.
 * The game starts with one of the players and the game ends when one of the players has one whole row/ column/ diagonal filled with his/her respective character (‘O’ or ‘X’).
 
 ## Research
@@ -79,7 +76,6 @@ Like any game, tic tac toe also teaches a person to accept the defeat as well as
 ##  Low level Requirements:
  
 | ID | Description | HLR ID |
-| ------ | --------- | ------ |
 | LR01 | If the Player 1 enters any digit from 1 to 9 then it should mark 'X' and return invalid if already marked. | HR01 |
 | LR02 | If the Player 2 enters any digit from 1 to 9 then it should mark 'O' and return invalid if already marked. | HR02 |
 | LR03 | If the Player is playing with 'O', he'll be the Player 2 and get second chance. | HR02 |

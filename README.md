@@ -76,7 +76,7 @@ Like any game, tic tac toe also teaches a person to accept the defeat as well as
 
 ##  Low level Requirements:
 | ID | Description | HLR ID |
-| ----- | ----- | 
+| ----- | ----- | ----- |
 | LR01 | If the Player 1 enters any digit from 1 to 9 then it should mark 'X' and return invalid if already marked. | HR01 |
 | LR02 | If the Player 2 enters any digit from 1 to 9 then it should mark 'O' and return invalid if already marked. | HR02 |
 | LR03 | If the Player is playing with 'O', he'll be the Player 2 and get second chance. | HR02 |

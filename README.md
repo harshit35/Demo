@@ -1,4 +1,4 @@
-ID   | Description              |
+ID   | Description              
 -----| -------------------------|
 HR01 | Add a new contact        |
 HR02 | List all Contacts        |

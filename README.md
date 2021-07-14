@@ -1,8 +1,1 @@
-- Class Diagram
-  ![Class Diagram](ClassDiagram.png?raw=true)
-
-- Activity Diagram
-  ![Activity Diagram](ActivityDiagram.png?raw=true)
-
-- Data Flow Diagram
-  ![Data Flow Diagram](DataFlowDiagram.jpg?raw=true)
+[![C/C++ CI](https://github.com/harshit35/Mini-project-stepin/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sumitbhimte/C-Mini-Project/actions/workflows/c-cpp.yml)

@@ -1,5 +1,5 @@
-- ![Class Diagram](ClassDiagram.png?raw=true)
+- !(ClassDiagram.png?raw=true)
 
-- ![Activity Diagram](ActivityDiagram.png?raw=true)
+- !(ActivityDiagram.png?raw=true)
 
-- ![Data Flow Diagram](DataFlowDiagram.jpg?raw=true)
+- !](DataFlowDiagram.jpg?raw=true)

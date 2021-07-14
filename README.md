@@ -1,7 +1,5 @@
-ID   | Description              
------| -------------------------
-HR01 | Add a new contact        
-HR02 | List all Contacts        
-HR03 | Search for a Contact     
-HR04 | Edit a Contact           
-HR05 | Delete a Contact         
+- ![Class Diagram](ClassDiagram.png?raw=true)
+
+- ![Activity Diagram](ActivityDiagram.png?raw=true)
+
+- ![Data Flow Diagram](DataFlowDiagram.jpg?raw=true)
